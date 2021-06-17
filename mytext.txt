@@ -1,10 +1,1 @@
- Volume in drive C is Win
- Volume Serial Number is EE1E-9433
-
- Directory of C:\Users\hp\Desktop\My Project
-
-06/17/2021  03:21 PM    <DIR>          .
-06/17/2021  03:21 PM    <DIR>          ..
-06/17/2021  03:21 PM                 0 mytext.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  23,430,316,032 bytes free
+my git test
