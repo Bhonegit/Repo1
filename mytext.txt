@@ -6,3 +6,4 @@ Next changes
 
 What about changes?
 Are you ready for tomorrow.
+Email notification test.
